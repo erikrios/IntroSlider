@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+    <string name="slide_one_title">KULINER</string>
+    <string name="slide_one_description">Rasakan Berbagai Kuliner yang Akan Memanjakan Lidahmu</string>
+    <string name="slide_two_title">HOTEL</string>
+    <string name="slide_two_description">Tentukan Hotel Yang Nyaman Untuk Istirahat Perjalananmu</string>
+    <string name="slide_three_title">WISATA</string>
+    <string name="slide_three_description">Destinasi Menarik Menantimu. Segera Pilih Destinasi Wisatamu</string>
+    <string name="slide_four_title">GUIDE</string>
+    <string name="slide_four_description">Cari Guide Untuk Menemani Perjalananmu Agar Semakin Asyik</string>
+    <string name="start_slider_again">Mulai Lagi Slider</string>
+    <string name="home_screen">Home Screen!</string>
+</resources>

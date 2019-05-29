@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/SlideRootLayout"
+    android:background="@color/background_screen_two">
+
+    <LinearLayout style="@style/LinearStyle">
+
+        <ImageView
+            style="@style/ImageStyle"
+            android:src="@drawable/ic_hotel" />
+
+        <TextView
+            style="@style/TextTitle"
+            android:text="@string/slide_two_title" />
+
+        <TextView
+            style="@style/TextDescription"
+            android:text="@string/slide_two_description" />
+    </LinearLayout>
+
+</RelativeLayout>
